@@ -85,7 +85,7 @@ Due to the large portion of sparse images, patch duplication and density-aware a
 - Test set evaluated: **190 images**
 - Mean Absolute Error (MAE): **33.47**
 
-This means on average the model’s predicted crowd count differs from ground truth by about **±33 people per image**, which is considered strong performance given the dataset imbalance and limited training data.
+This means on average the model’s predicted crowd count differs from ground truth by about **±34 people per image**, which is considered strong performance given the dataset imbalance and limited training data.
 
 ---
 
