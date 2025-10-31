@@ -4,6 +4,16 @@
 This project implements a crowd counting system using a modified CSRNet architecture combined with a patch-based training pipeline.  
 Instead of detecting individuals, the model predicts a **density map**, and the total crowd count is obtained by summing all pixel values.
 
+## FYI Note IMPORTANT
+
+If you encounter this message when trying to view the notebook directly on GitHub:
+Invalid Notebook
+There was an error rendering your Notebook: the 'state' key is missing from 'metadata.widgets'.
+Add 'state' to each, or remove 'metadata.widgets'.
+Using nbformat v5.10.4 and nbconvert v7.16.6
+
+I have no clue how to handle this, so if you want to view the output for the notebook, go to this link: https://drive.google.com/file/d/1smcZjLRk0gEgeicp5DeDVT7JI1assaPv/view?usp=sharing
+
 ---
 
 ## Dataset
