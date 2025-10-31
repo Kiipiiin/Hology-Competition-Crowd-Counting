@@ -12,7 +12,7 @@ There was an error rendering your Notebook: the 'state' key is missing from 'met
 Add 'state' to each, or remove 'metadata.widgets'.
 Using nbformat v5.10.4 and nbconvert v7.16.6"
 
-I have no clue how to handle this, so if you want to view the output for the notebook, go to this link: https://drive.google.com/file/d/1smcZjLRk0gEgeicp5DeDVT7JI1assaPv/view?usp=sharing
+I have no clue how to handle this, so if you want to view the output for the notebook, go to this link: https://colab.research.google.com/drive/1dY1Ca-DvZG8I9B1ZBMB0u9IKm_8VLd6h?usp=sharing
 
 ---
 
